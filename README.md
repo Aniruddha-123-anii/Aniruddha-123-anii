@@ -13,6 +13,8 @@ Currently working in the **FinTech / Lending domain**, building scalable, secure
 
 I enjoy designing clean APIs, optimizing databases, and building production-grade distributed systems.
 
+[![Website](https://img.shields.io/badge/🌐%20Visit%20Live%20Website-success?style=for-the-badge)](https://its-aniruddha.vercel.app/)
+
 ---
 
 ## 🛠 Tech Stack
